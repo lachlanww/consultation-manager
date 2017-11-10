@@ -1,1 +1,1 @@
-{"name":"consultation-manager","display_name":"consultation-manager","owner":"lachlanwwells","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"5a04f2186bcc680011932498"}
+{"name":"consultation-manager","display_name":"consultation-manager","owner":"lachlanwwells","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"5a04f2186bcc680011932498","base_endpoint":"https://gmw.consultationmanager.com.au/RestService2.svc/v2/json/ping"}
